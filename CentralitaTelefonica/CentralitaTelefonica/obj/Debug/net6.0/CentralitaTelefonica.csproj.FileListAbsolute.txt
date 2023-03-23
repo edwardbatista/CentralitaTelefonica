@@ -1,0 +1,15 @@
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net6.0\CentralitaTelefonica.exe
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net6.0\CentralitaTelefonica.deps.json
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net6.0\CentralitaTelefonica.runtimeconfig.json
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net6.0\CentralitaTelefonica.dll
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\bin\Debug\net6.0\CentralitaTelefonica.pdb
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.csproj.AssemblyReference.cache
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.AssemblyInfoInputs.cache
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.AssemblyInfo.cs
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.csproj.CoreCompileInputs.cache
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.dll
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\refint\CentralitaTelefonica.dll
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.pdb
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\CentralitaTelefonica.genruntimeconfig.cache
+C:\Users\0000\source\repos\CentralitaTelefonica\CentralitaTelefonica\obj\Debug\net6.0\ref\CentralitaTelefonica.dll
